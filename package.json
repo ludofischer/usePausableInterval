@@ -3,7 +3,7 @@
 	"source": "src/useInterval.ts",
 	"main": "dist/useInterval.js",
 	"module": "dist/useInterval.module.js",
-	"exports": "dist/useInterval.modern.js",
+	"exports": "./dist/useInterval.modern.js",
 	"types": "dist/useInterval.d.ts",
 	"scripts": {
 		"build": "microbundle"
